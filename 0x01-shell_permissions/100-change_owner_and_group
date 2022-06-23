@@ -1,2 +1,2 @@
 #!/bin/bash
-own -R vincent:staff ./
+chown -R vincent:staff ./
